@@ -1,4 +1,4 @@
-# Deeplearning_timeseries
+# Deeplearning_timeseries (Very important)
 Evaluation of shallow and deep learning models for multi-step-ahead time series prediction
 
 We present an evaluation study that compares the performance of deep learning models for multi-step ahead time series prediction. The deep learning methods comprise simple recurrent neural networks, long-short-term memory (LSTM) networks, bidirectional LSTM networks, encoder-decoder LSTM networks,and convolutional neural networks. We provide a further comparison with simple neural networks that use stochastic gradient descent and adaptive moment estimation (Adam) for training. We focus on univariate time series for multi-step-ahead prediction from benchmark time-series datasets and provide a further comparison of the results with related methods from the literature.
